@@ -1,4 +1,4 @@
-[![MasterHead]([[https://process.filestackapi.com/cache=expiry:max/resize=width:700/efbSR18hT5uRKuo0zoMA](https://www.guvi.in/blog/wp-content/uploads/2022/11/giphy-1.gif)])
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.guvi.in/blog/wp-content/uploads/2022/11/giphy-1.gif)
 <h1 align="center">Hi 👋, I'm Sagar Saini</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
